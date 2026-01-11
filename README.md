@@ -1,0 +1,3 @@
+**#🛒 Descrição do Program**
+
+*Este projeto é um sistema simples de cadastro de lista de compras feito em C#. O programa permite que o usuário escolha iniciar um novo cadastro, informe quantos itens deseja adicionar e registre cada um deles. Após o preenchimento, os itens são copiados para outro array e exibidos na tela. O sistema também valida as opções digitadas pelo usuário e oferece a possibilidade de repetir o processo ou encerrar a aplicação com uma animação de saída.*
