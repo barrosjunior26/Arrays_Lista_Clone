@@ -1,0 +1,15 @@
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\bin\Debug\net10.0\Arrays_Lista_Clone.exe
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\bin\Debug\net10.0\Arrays_Lista_Clone.deps.json
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\bin\Debug\net10.0\Arrays_Lista_Clone.runtimeconfig.json
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\bin\Debug\net10.0\Arrays_Lista_Clone.dll
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\bin\Debug\net10.0\Arrays_Lista_Clone.pdb
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.AssemblyInfoInputs.cache
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.AssemblyInfo.cs
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.csproj.CoreCompileInputs.cache
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.sourcelink.json
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.dll
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\refint\Arrays_Lista_Clone.dll
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.pdb
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\Arrays_Lista_Clone.genruntimeconfig.cache
+C:\Projetos Git - Console C#\Arrays_Lista_Clone\obj\Debug\net10.0\ref\Arrays_Lista_Clone.dll

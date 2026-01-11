@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Arrays_Lista_Clone/1.0.0": {
+        "runtime": {
+          "Arrays_Lista_Clone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_Lista_Clone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
