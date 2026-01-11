@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays_Lista_Clone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+402bcaa532473cbed4b02cc05705aea76cee78a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9b2c389f5c45d2b2381e155961b23b257de643c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays_Lista_Clone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays_Lista_Clone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
